@@ -2,10 +2,16 @@
 
 Based on [this](https://fredrikaverpil.github.io/2016/07/31/docker-for-mac-and-gui-applications/) excellent blog post
 
+## Requirements
+- Docker
+- brew
+
 ## Setup
 
 **This guide assumes that you execute all the commands from the root directory
 of this repository.**
+
+**Tested on MacOS BigSur**
 
 1. Install xquartz in order to enable running
 GUI applications from a docker container:
