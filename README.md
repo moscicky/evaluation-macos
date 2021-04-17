@@ -31,7 +31,7 @@ GUI applications from a docker container:
 4. Move `evaLUAtion` directory (evaluation source with executable binary) 
    to the root directory of this repository:
     ```shell
-   mv /[path_to_evaLUAtion_src]/evaLUAtion ./evaLUAtion
+   mv /[path_to_evaLUAtion_src]/evaLUAtion ./evaluation
     ```
    
 Expected directory structure:
