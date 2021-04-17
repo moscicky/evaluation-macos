@@ -28,7 +28,7 @@ GUI applications from a docker container:
     ![](img/xquartz1.png)
     ![](img/xquartz2.png)
    
-4. Move `evaluation` folder to this directory:
+4. Move `evaluation` directory to the root directory of this repository:
     ```shell
    mv /[path_to_evaLUAtion_src]/evaLUAtion ./evaLUAtion
     ```
