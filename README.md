@@ -4,6 +4,9 @@ Based on [this](https://fredrikaverpil.github.io/2016/07/31/docker-for-mac-and-g
 
 ## Setup
 
+**This guide assumes that you execute all the commands from the root directory
+of this repository.**
+
 1. Install xquartz in order to enable running
 GUI applications from a docker container:
     ```shell
