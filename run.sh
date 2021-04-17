@@ -8,4 +8,5 @@ docker container run \
 -e DISPLAY=$ip:0 \
 -v /tmp/.X11-unix:/tmp/.X11-unix \
 -v $(pwd)/evaluation:/evaluation \
+--name evaluation \
 --rm -it evaluation-base "/bin/bash"
